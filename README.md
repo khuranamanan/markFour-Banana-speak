@@ -1,7 +1,7 @@
 # markSix-Banana-speak
 Lesson 4 of neog.camps levelZero. An application that translates from english to minion language.
 
-# markSix Banana speak (English to Minion Languge translator0
+# markSix Banana speak (English to Minion Languge translator)
 ## Description
 Are you a Minion fan? Use the translator to convert what you and we speak to minions language.
 
